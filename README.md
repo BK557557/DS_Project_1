@@ -20,7 +20,7 @@ Markdown cells were used to assist in walking through the thought process for in
 
 ## Results
 
-The main findings of the analysis can be found at the post which is linked here
+The main findings of the analysis can be found at the post which is linked [here](https://medium.com/@bashar.khaddage/exploring-seattles-airbnb-scene-a66f145c836f)
 
 ## Licensing, Authors, Acknowledgements
 
