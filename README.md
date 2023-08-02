@@ -15,9 +15,12 @@ The motivaion behind this project was to better understand buring questions I ha
 
 ## File Description
 
-There is 1 notebook shared here with all the analysis & key findings. 
-the 3 csv files are also available in this folder
+There is 1 notebook shared here with all the analysis & key findings. There were 3 original CSV files with the data fragmented across them, and I used each one as need be.
 Markdown cells were used to assist in walking through the thought process for individual steps.
+
+## Results
+
+The main findings of the analysis can be found at the post which is linked here
 
 ## Licensing, Authors, Acknowledgements
 
