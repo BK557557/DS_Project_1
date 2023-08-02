@@ -1,2 +1,2 @@
-# DS_Project_1
-First Project
+Data Science, Project 1
+Analysing an Airbnb dataset
