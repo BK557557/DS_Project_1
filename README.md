@@ -11,7 +11,7 @@ Seaborn library
 ## Project Motivation
 
 This is a a sneak peek into the Airbnb activity in Seattle, WA, USA.
-The motivaion behind this project was to better understand buring questions I had in mind. What is the avg listing price in Seatte's Airbnb scene? What are the most popualar neighbourhoods? How do they vary by property type? and many more.
+The motivation behind this project was to better understand burning questions I had in mind. What is the average listing price in Seattle's Airbnb scene? What are the most popular neighbourhoods? How do they vary by property type? and many more.
 
 ## File Description
 
@@ -24,4 +24,4 @@ The main findings of the analysis can be found at the post which is linked here
 
 ## Licensing, Authors, Acknowledgements
 
-Must give credit to Udacity, Kaggale - and of course - Airbnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
+Must give credit to Udacity, Kaggle - and of course - Airbnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
