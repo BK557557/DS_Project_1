@@ -22,5 +22,3 @@ Markdown cells were used to assist in walking through the thought process for in
 ## Licensing, Authors, Acknowledgements
 
 Must give credit to Udacity, Kaggale - and of course - Airbnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
-
-test
