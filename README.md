@@ -24,4 +24,4 @@ The main findings of the analysis can be found at the post which is linked [here
 
 ## Licensing, Authors, Acknowledgements
 
-Must give credit to Udacity, Kaggle - and of course - Airbnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
+Must give credit to Udacity, Kaggle - and of course - Airbnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle. Otherwise, feel free to use the code here as you would like!
