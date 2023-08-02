@@ -2,11 +2,11 @@
 
 ## Installations
 
-Python version 3
-NumPy library
-Pandas library
-Matplotlib.pyplot library
-Seaborn library
+1) Python version 3
+2) NumPy library
+3) Pandas library
+4) Matplotlib.pyplot library
+5) Seaborn library
 
 ## Project Motivation
 
