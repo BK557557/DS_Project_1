@@ -15,7 +15,7 @@ The motivaion behind this project was to better understand buring questions I ha
 
 ## File Description
 
-There is 1 notebook shared here with all the analysis & key findings. There were 3 original CSV files with the data fragmented across them, and I used each one as need be.
+There is 1 notebook shared here with all the analysis & key findings. There were 3 original CSV files with the data fragmented across them, and I used each one as need be. Those are attached as well in zipped files.
 Markdown cells were used to assist in walking through the thought process for individual steps.
 
 ## Results
